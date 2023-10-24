@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "demo_records",
+  "info": {
+    "singularName": "demo-record",
+    "pluralName": "demo-records",
+    "displayName": "demoRecord",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "uid": {
+      "type": "integer"
+    }
+  }
+}
